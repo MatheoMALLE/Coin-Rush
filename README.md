@@ -34,6 +34,6 @@ Coin-Rush/
 ├── doc/          # Project documentation
 ├── niveaux/      # Files for the game's various levels/worlds
 ├── src/          # Java source code
-├── monde_2.jar   # Game executable (world 2)
+├── monde_2.jar   # Game executable
 └── README.md
 ```
